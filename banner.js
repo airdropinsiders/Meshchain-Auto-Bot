@@ -12,5 +12,5 @@ export const banner = `
        ██║██║╚██╗██║╚════██║██║██║  ██║██╔══╝  ██╔══██╗    
        ██║██║ ╚████║███████║██║██████╔╝███████╗██║  ██║    
        ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝    
-                   KAISAR ZERO NODE - BOT                
+                   MESHCHAIN AUTO - BOT                
      📢  Telegram Channel: https://t.me/AirdropInsiderID `
