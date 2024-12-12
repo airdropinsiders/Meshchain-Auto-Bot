@@ -4,17 +4,13 @@ MeshChain is a decentralized network designed to provide affordable, scalable co
 
 - [https://app.meshchain.ai/](https://app.meshchain.ai?ref=3NR2VSUE3KKM)
 
-![mesh](image.png)
-
 # MeshChain Automation Script
 
 ## Update
 
-- Solve captcha using anti-captcha [https://anti-captcha.com/](https://anti-captcha.com/)
+- Solve captcha using 2captcha [https://2captcha.com/](https://2captcha.com/?from=23248152)
 
 This repository contains scripts for automating tasks such as user registration, email verification, claiming rewards, and starting mining on MeshChain.
-
-![banner](image-1.png)
 
 ## Features
 
@@ -71,8 +67,6 @@ This repository contains scripts for automating tasks such as user registration,
   ```bash
   npm run autoreg
   ```
-
-  ![auto register](image-2.png)
 
   ### Source
   - https://github.com/Zlkcyber/
